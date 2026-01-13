@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Felippe Sobcsik Ribeiro dos Santos (@felippeomgt)
 - 👀 I’m interested in Games, Automation, Web systems, Low code/No code platforms, integration platforms, Vuejs, PHP, Javascript, NodeJs, C#.
-- 🌱 I’m currently learning C++, playing around with a legacy C++ game engine and developing my own low code platform.
-- 💞️ I’m looking to collaborate with PHP, Laravel and Drupal community.
+- 🤖 I'm currently learning Godot and game development.
+- 💞️ I’m looking to collaborate with PHP, Laravel and Godot communities.
 - 📫 How to reach me: 
-  Twitter: @umnerdao
   Linkedin: https://www.linkedin.com/in/felippe-sobcsik-ribeiro-dos-santos-1a50a8131/?locale=en_US
 
 <!---
